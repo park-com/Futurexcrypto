@@ -138,7 +138,6 @@ make
 
 
 
-
 Example regular inernet Users futurexcrypto.conf
 
 rpcuser=FUTUREXCRYPTOusername 

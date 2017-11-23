@@ -62,49 +62,24 @@ https://futurexcrypto.com/
 
 ### Wallets :
 
-https://futurexcrypto.com/default.aspx#section6/
+https://futurexcrypto.com/default.aspx#Wallets
 
 
 In Your futurexcrypto.conf file just at this line
 
--addnode = 37.97.242.80
-
-
--addnode = 178.62.193.115
-
-
--addnode = 45.55.143.224
-
-
--addnode = 104.236.176.173
-
-
--addnode = 146.185.182.160
-
-
--addnode = 138.68.178.239
-
-
--addnode = 188.166.46.162
-
-
--addnode = 45.43.21.172
-
-
--addnode = 178.62.76.226
-
-
--addnode = 128.199.103.90
-
-
--addnode = 183.82.113.118
-
-
--addnode = 104.236.134.249
-
-
--addnode = 103.206.114.182
-
+-addnode = 37.97.242.80      
+-addnode = 178.62.193.115      
+-addnode = 45.55.143.224      
+-addnode = 104.236.176.173      
+-addnode = 146.185.182.160      
+-addnode = 138.68.178.239      
+-addnode = 188.166.46.162      
+-addnode = 45.43.21.172      
+-addnode = 178.62.76.226      
+-addnode = 128.199.103.90      
+-addnode = 183.82.113.118      
+-addnode = 104.236.134.249      
+-addnode = 103.206.114.182      
 
 
 ### Blockchain explorer

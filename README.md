@@ -1,4 +1,4 @@
-
+![BATA](https://futurexcrypto.com/images/watermark.png)
 
 ### Coin Information:
 
